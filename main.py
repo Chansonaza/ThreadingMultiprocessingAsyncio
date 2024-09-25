@@ -2,7 +2,7 @@ import multiprocessing_task
 import threading_task
 import async_task
 import generate_numbers
-
+import multiprocessing
 def main():
     # Step 1: Generate numbers file
     print("Generating numbers.txt file...")
